@@ -1,0 +1,9 @@
+.ori{
+	background-color: orange;
+	width: 30%;
+	height: 30vw;
+	
+	float: left;
+	border: 10px solid white;
+	border-radius: 30px;
+}
